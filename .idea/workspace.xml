@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afe6b7c1-b459-4100-a4eb-b8393ddd6e72" name="Default Changelist" comment="styles.css added" />
+    <list default="true" id="afe6b7c1-b459-4100-a4eb-b8393ddd6e72" name="Default Changelist" comment="added meta charset and data to scripts.js" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

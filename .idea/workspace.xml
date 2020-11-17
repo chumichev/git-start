@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afe6b7c1-b459-4100-a4eb-b8393ddd6e72" name="Default Changelist" comment="added meta charset and data to scripts.js" />
+    <list default="true" id="afe6b7c1-b459-4100-a4eb-b8393ddd6e72" name="Default Changelist" comment="added meta charset and data to scripts.js">
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
